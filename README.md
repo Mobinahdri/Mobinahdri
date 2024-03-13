@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Mobina heydari</h1>
+<h1 align="center">Hi there👋, I'm Mobina </h1>
 - 📫 How to reach me : mobinaheydari7104@gmail.com
 
 
